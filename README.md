@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bittu Sharma</h1>
 <div align="center" width="400" >
-  <img src="https://raw.githubusercontent.com/bittush8789/bittush8789/main/IMG_20241103_171433.jpg" width="400" height="300">
+  <img src="https://raw.githubusercontent.com/bittush8789/bittush8789/main/height.jpg" width="1293" height="565">
 </div>
 <h3 align="center">A passionate DevOps Engineer From India.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
