@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bittu Sharma</h1>
 <h3 align="center">Recent graduate aspiring to excel as an AWS DevOps Engineer, combining theoretical expertise with practical project implementation. Eager to contribute innovative solutions for seamless cloud infrastructure and automation.</h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bittush8789&label=Profile%20views&color=0e75b6&style=flat" alt="bittush8789" /> </p>
 
