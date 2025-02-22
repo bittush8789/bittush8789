@@ -1,8 +1,21 @@
 <h1 align="center">Hi 👋, I'm Bittu Sharma </h1>
-<div align="center" width="400" >
+<!-- <div align="center" width="400" >
   <img src="https://raw.githubusercontent.com/bittush8789/bittush8789/main/height.jpg" width="1300" height="400">
-</div>
+</div> -->
 <h3 align="center">I'm a DevOps Engineer | MLOps Engineer | AI Engineer</h3>
+<h2>I have technical experience and interest in: </h2>
+<ul>
+    <li>DevOps</li>
+    <li>MLOps</li>
+    <li>Deep Learning</li>
+    <li>Machine Learning</li>
+    <li>Computer Vision</li>
+    <li>Natural Language Processing</li>
+    <li>Generative AI</li>
+    <li>Robotics</li>
+</ul>
+
+
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bittush8789&label=Profile%20views&color=0e75b6&style=flat" alt="bittush8789" /> </p>
