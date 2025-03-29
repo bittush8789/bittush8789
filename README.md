@@ -2,7 +2,7 @@
 <!-- <div align="center" width="400" >
   <img src="https://raw.githubusercontent.com/bittush8789/bittush8789/main/height.jpg" width="1300" height="400">
 </div> -->
-<h3 align="center">I'm a DevOps Engineer | MLOps Engineer | AiOps | AI Engineer</h3>
+<h3 align="center">I'm a DevOps Engineer | MLOps Engineer | AiOps | Ai Engineer</h3>
 <h2>I have technical experience and interest in: </h2>
 <ul>
     <li>DevOps</li>
