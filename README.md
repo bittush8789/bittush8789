@@ -2,7 +2,7 @@
 <!-- <div align="center" width="400" >
   <img src="https://raw.githubusercontent.com/bittush8789/bittush8789/main/height.jpg" width="1300" height="400">
 </div> -->
-<h3 align="center">I'm a DevOps Engineer | MLOps Engineer | Ai Engineer </h3>
+<h3 align="center">I'm a DevOps Engineer & Ai Engineer </h3>
 <h2>I have technical experience and interest in: </h2>
 <ul>
     <li>DevOps</li>
@@ -26,9 +26,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/bittush8789](https://github.com/bittush8789)
 
-- 📝 My Portfolio [https://portfolio-demo-next.vercel.app](https://portfolio-demo-next.vercel.app)
+- 📝 My Portfolio [https://bittudevai.vercel.app](https://bittudevai.vercel.app)
 
-- 💬 Ask me about **DevOps & Cloud DevOps**
+- 💬 Ask me about **DevOps & Ai Engineering**
 
 - 📫 How to reach me **bittush9534@gmail.com**
 
