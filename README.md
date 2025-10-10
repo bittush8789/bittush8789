@@ -34,7 +34,7 @@ I'm a **DevOps Engineer** @EXl service** specializing in **Development, DevOps, 
 
 - 👨‍💻 All of my projects are available at [https://github.com/bittush8789](https://github.com/bittush8789)
 
-- 📝 My Portfolio [https://bittudevai.vercel.app](https://bittudevai.vercel.app)
+- 📝 My Portfolio [(https://bittudevops.vercel.app/)]
 
 - 💬 Ask me about **DevOps & Ai Engineering**
 
