@@ -2,8 +2,17 @@
 <!-- <div align="center" width="400" >
   <img src="https://raw.githubusercontent.com/bittush8789/bittush8789/main/height.jpg" width="1300" height="400">
 </div> -->
-<h3 align="center">I'm a DevOps Engineer & Ai Engineer </h3>
-<h2>I'm a Developer Advocate & Educator @Bittusharma specializing in Development, DevOps, and Platform Engineering from 🇮🇳 India, with 8+ years of professional experience in both onsite and remote environments. I'm passionate about building production-ready applications and scalable cloud infrastructure.</h2>
+## 🚀 About Me
+
+I'm a **Developer Advocate** & **Educator @TrainWithShubham** specializing in **Development, DevOps, and Platform Engineering** from 🇮🇳 India, with **8+ years** of professional experience in both onsite and remote environments. I'm passionate about building **production-ready applications** and scalable cloud infrastructure.
+
+- 🔭 Currently working on **cloud-native solutions**, **Artificial Intelligence solutions** and **DevOps/Platform engineering**
+- 🌱 Always learning about **emerging technologies** and **best practices**
+- 👯 Looking to collaborate on **open-source projects** and **DevOps initiatives**
+- 💬 Ask me about **Python, Cloud Architecture, DevOps, and Platform Engineering**
+- ⚡ Fun fact: I love sharing knowledge through **training and mentoring**
+
+---
 <h2>I have technical experience and interest in: </h2>
 <ul>
     <li>DevOps</li>
