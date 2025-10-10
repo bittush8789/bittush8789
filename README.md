@@ -2,15 +2,13 @@
 <!-- <div align="center" width="400" >
   <img src="https://raw.githubusercontent.com/bittush8789/bittush8789/main/height.jpg" width="1300" height="400">
 </div> -->
-## 🚀 About Me
 
-I'm a **Developer Advocate** & **Educator @TrainWithShubham** specializing in **Development, DevOps, and Platform Engineering** from 🇮🇳 India, with **8+ years** of professional experience in both onsite and remote environments. I'm passionate about building **production-ready applications** and scalable cloud infrastructure.
+I'm a **DevOps Engineer** @Bittu Sharma** specializing in **Development, DevOps, and MLOps Engineering** from 🇮🇳 India, with **1.6 years** of professional experience in both onsite and remote environments. I'm passionate about building **production-ready applications** and scalable cloud infrastructure.
 
 - 🔭 Currently working on **cloud-native solutions**, **Artificial Intelligence solutions** and **DevOps/Platform engineering**
 - 🌱 Always learning about **emerging technologies** and **best practices**
 - 👯 Looking to collaborate on **open-source projects** and **DevOps initiatives**
-- 💬 Ask me about **Python, Cloud Architecture, DevOps, and Platform Engineering**
-- ⚡ Fun fact: I love sharing knowledge through **training and mentoring**
+- 💬 Ask me about **Python, Cloud Architecture, DevOps, and MLOps Engineering**
 
 ---
 <h2>I have technical experience and interest in: </h2>
