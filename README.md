@@ -3,6 +3,7 @@
   <img src="https://raw.githubusercontent.com/bittush8789/bittush8789/main/height.jpg" width="1300" height="400">
 </div> -->
 <h3 align="center">I'm a DevOps Engineer & Ai Engineer </h3>
+<h2>I'm a Developer Advocate & Educator @Bittusharma specializing in Development, DevOps, and Platform Engineering from 🇮🇳 India, with 8+ years of professional experience in both onsite and remote environments. I'm passionate about building production-ready applications and scalable cloud infrastructure.</h2>
 <h2>I have technical experience and interest in: </h2>
 <ul>
     <li>DevOps</li>
