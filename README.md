@@ -7,7 +7,6 @@ I'm a **DevOps Engineer** @Exl Service** specializing in ** DevOps, MLOps and Ai
 
 - 🔭 Currently working on **cloud-native solutions**, **Artificial Intelligence solutions** and **DevOps/Platform engineering**
 - 🌱 Always learning about **emerging technologies** and **best practices**
-- 👯 Looking to collaborate on **open-source projects** and **DevOps initiatives**
 - 💬 Ask me about **Python, Cloud Architecture, DevOps, and MLOps Engineering**
 
 ---
