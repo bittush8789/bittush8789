@@ -5,7 +5,7 @@
 
 I'm a **DevOps Engineer** @Exl Service** specializing in ** DevOps, MLOps and Ai Engineering ** from 🇮🇳 India, with **1.6 years** of professional experience in both onsite and remote environments. I'm passionate about building **production-ready applications** and scalable cloud infrastructure.
 
-- 🔭 Currently working on **cloud-native solutions**, **Artificial Intelligence solutions** and **DevOps/Platform engineering**
+- 🔭 Currently working on **cloud-native solutions**, **Artificial Intelligence solutions** and **DevOps/MLOps Engineering**
 - 🌱 Always learning about **emerging technologies** and **best practices**
 - 💬 Ask me about **Python, Cloud Architecture, DevOps, and MLOps Engineering**
 
