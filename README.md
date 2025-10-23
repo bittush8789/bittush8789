@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/bittush8789/bittush8789/main/height.jpg" width="1300" height="400">
 </div> -->
 
-I'm a **DevOps Engineer** @EXl service** specializing in **Development, DevOps, and MLOps Engineering** from 🇮🇳 India, with **1.6 years** of professional experience in both onsite and remote environments. I'm passionate about building **production-ready applications** and scalable cloud infrastructure.
+I'm a **DevOps Engineer** @EXl service** specializing in ** DevOps, MLOps and Ai Engineering ** from 🇮🇳 India, with **1.6 years** of professional experience in both onsite and remote environments. I'm passionate about building **production-ready applications** and scalable cloud infrastructure.
 
 - 🔭 Currently working on **cloud-native solutions**, **Artificial Intelligence solutions** and **DevOps/Platform engineering**
 - 🌱 Always learning about **emerging technologies** and **best practices**
