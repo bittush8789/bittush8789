@@ -3,7 +3,9 @@
   <img src="https://raw.githubusercontent.com/bittush8789/bittush8789/main/height.jpg" width="1300" height="400">
 </div> -->
 
-I'm a **DevOps Engineer** @Exl Service** specializing in ** DevOps, MLOps and Ai Engineering ** from 🇮🇳 India, with **1.6 years** of professional experience in both onsite and remote environments. I'm passionate about building **production-ready applications** and scalable cloud infrastructure.
+I'm a DevOps, MLOps & LLMOps Engineer with a strong interest in AI Engineering, based in India 🇮🇳. I have 1.9+ years of hands-on industry experience, working across cloud infrastructure, automation, CI/CD, and AI-driven systems in both onsite and remote environments.
+
+I’m passionate about building scalable, secure, and production-ready systems that bridge the gap between software engineering, cloud operations, and machine learning.
 
 - 🔭 Currently working on **cloud-native solutions**, **Artificial Intelligence solutions** and **DevOps/MLOps Engineering**
 - 🌱 Always learning about **emerging technologies** and **best practices**
