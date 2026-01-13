@@ -7,10 +7,6 @@ I'm a DevOps, MLOps & LLMOps Engineer with a strong interest in AI Engineering, 
 
 I’m passionate about building scalable, secure, and production-ready systems that bridge the gap between software engineering, cloud operations, and machine learning.
 
-- 🔭 Currently working on **cloud-native solutions**, **Artificial Intelligence solutions** and **DevOps/MLOps Engineering**
-- 🌱 Always learning about **emerging technologies** and **best practices**
-- 💬 Ask me about **Python, Cloud Architecture, DevOps, and MLOps Engineering**
-
 ---
 <h2>I have technical experience and interest in: </h2>
 <ul>
