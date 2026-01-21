@@ -22,7 +22,7 @@ I’m passionate about building scalable, secure, and production-ready systems t
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bittush8789&label=Profile%20views&color=0e75b6&style=flat" alt="bittush8789" /> </p>
 
-- 🔭 I’m currently working on [K8s-Voting-App](https://github.com/bittush8789/K8s-Voting-App)
+- 🔭 I’m currently working on [MLOps Engineering] (https://github.com/bittush8789/mlops-zero-to-hero-)
 
 - 🌱 I’m currently learning **DevSecOps & Artificial Intelligence**
 
