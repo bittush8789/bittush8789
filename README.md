@@ -3,9 +3,10 @@
   <img src="https://raw.githubusercontent.com/bittush8789/bittush8789/main/height.jpg" width="1300" height="400">
 </div> -->
 
-I'm a DevOps, MLOps & LLMOps Engineer with a strong interest in AI Engineering, based in India 🇮🇳. I have 2 year of hands-on industry experience, working across cloud infrastructure, automation, CI/CD, and AI-driven systems in both onsite and remote environments.
+DevOps, MLOps & LLMOps Engineer with a strong focus on AI Engineering.  
+I have 2+ years of hands-on experience building and managing cloud infrastructure, CI/CD pipelines, and AI-driven systems across onsite and remote environments.  
 
-I’m passionate about building scalable, secure, and production-ready systems that bridge the gap between software engineering, cloud operations, and machine learning.
+Passionate about designing scalable, secure, and production-ready solutions that bridge software engineering, cloud, and machine learning.
 
 ---
 <h2>🚀 What I'm Working On: </h2>
