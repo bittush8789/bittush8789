@@ -5,7 +5,6 @@
 
 DevOps, MLOps & LLMOps Engineer with a strong focus on AI Engineering.  
 I have 2+ years of hands-on experience building and managing cloud infrastructure, CI/CD pipelines, and AI-driven systems across onsite and remote environments.  
-
 Passionate about designing scalable, secure, and production-ready solutions that bridge software engineering, cloud, and machine learning.
 
 ---
