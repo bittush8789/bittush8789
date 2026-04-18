@@ -1,50 +1,95 @@
-<h1 align="center">Hi 👋, I'm Bittu Sharma </h1>
-<!-- <div align="center" width="400" >
-  <img src="https://raw.githubusercontent.com/bittush8789/bittush8789/main/height.jpg" width="1300" height="400">
-</div> -->
+<div align="center">
+  
+# 🚀 Bittu Sharma
+### DevOps | MLOps | LLMOps | AI Engineer
 
-DevOps, MLOps & LLMOps Engineer with a strong focus on AI Engineering.  
-I have 2+ years of hands-on experience building and managing cloud infrastructure, CI/CD pipelines, and AI-driven systems across onsite and remote environments.  
-Passionate about designing scalable, secure, and production-ready solutions that bridge software engineering, cloud, and machine learning.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Building+Scalable+AI+Infrastructure;DevOps+%26+Cloud+Native+Expert;MLOps+%26+LLMOps+Specialist;Passionate+about+Production+AI" alt="Typing SVG" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0e75b6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bittu-kumar-54ab13254)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ff4b1f?style=for-the-badge&logo=react&logoColor=white)](https://bittudevops.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bittush9534@gmail.com)
+
+</div>
 
 ---
-<h2>🚀 What I'm Working On: </h2>
-<ul>
-    <li>Designing and managing cloud-native DevOps pipelines </li>
-    <li>MLOps</li>
-    <li>Building MLOps & LLMOps workflows for training, deployment, and monitoring </li>
-    <li>Automating infrastructure using IaC and CI/CD best practices</li>
-    <li>Exploring Generative AI, LLM deployment, and AI system design</li>
-</ul>
 
+### 👨‍💻 About Me
+I am a **DevOps, MLOps & LLMOps Engineer** with a strong focus on **AI Engineering**. With 2+ years of hands-on experience, I bridge the gap between software engineering, cloud infrastructure, and machine learning.
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+- 🔭 **Currently Building**: [MLOps Zero to Hero Pipeline](https://github.com/bittush8789/mlops-zero-to-hero-)
+- 🌱 **Learning**: DevSecOps & Advanced Artificial Intelligence
+- 💡 **Passion**: Designing scalable, secure, and production-ready solutions for remote-first teams.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bittush8789&label=Profile%20views&color=0e75b6&style=flat" alt="bittush8789" /> </p>
+---
 
-- 🔭 I’m currently working on [MLOps Engineering] (https://github.com/bittush8789/mlops-zero-to-hero-)
+### 🌟 Featured Projects
 
-- 🌱 I’m currently learning **DevSecOps & Artificial Intelligence**
+#### 1. 🏗️ [Production-Grade DevOps Lifecycle](https://github.com/bittush8789/Bittu-Kumar-DevOps-MLOps-Portfolio)
+An end-to-end GitOps pipeline for high-availability applications.
+- **Features**: Automated CI/CD, Container Security Scanning, HPA Auto-scaling.
+- **Tech**: `AWS EKS`, `Terraform`, `ArgoCD`, `Jenkins`, `Trivy`, `Helm`.
 
-- 👨‍💻 All of my projects are available at [https://github.com/bittush8789](https://github.com/bittush8789)
+#### 2. 🤖 [End-to-End MLOps Platform](https://github.com/bittush8789/mlops-zero-to-hero-)
+A complete machine learning lifecycle platform from data ingestion to model serving.
+- **Features**: Experiment tracking, data versioning, model registry, and automated drift detection.
+- **Tech**: `Python`, `MLflow`, `DVC`, `Docker`, `Kubeflow`, `AWS S3`.
 
-- 📝 My Portfolio [(https://bittudevops.vercel.app/)]
+#### 3. ⚡ [Real-Time ML Inference Pipeline](https://github.com/bittush8789)
+Low-latency inference engine for high-throughput prediction services.
+- **Features**: Async processing, model caching, and real-time monitoring of inference latency.
+- **Tech**: `FastAPI`, `Redis`, `Kafka`, `Docker`, `Prometheus`, `Grafana`.
 
-- 💬 Ask me about **DevOps & Ai Engineering**
+#### 4. 📝 [NLP Text Classification MLOps](https://github.com/bittush8789)
+Scalable NLP pipeline for sentiment and category classification using Transformers.
+- **Features**: Automated retraining on new data, BERT model optimization, and A/B testing.
+- **Tech**: `PyTorch`, `HuggingFace`, `Airflow`, `MLflow`, `AWS SageMaker`.
 
-- 📫 How to reach me **bittush9534@gmail.com**
+#### 5. 🏥 [Medical AI Chatbot (LLMOps)](https://github.com/bittush8789)
+A specialized medical domain chatbot built using Retrieval Augmented Generation (RAG).
+- **Features**: Context-aware medical advice, Vector similarity search, and secure LLM deployment.
+- **Tech**: `LangChain`, `Pinecone`, `OpenAI / Llama`, `Flask`, `Pinecone`.
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🛠️ Tech Stack
+
+#### 🏗️ Infrastructure & Automation
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions)
+
+#### 🤖 AI, ML & LLMs
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow)
+![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat-square&logo=dvc)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink)
+
+---
+
+### 📊 GitHub Analytics
+<div align="center">
+
+| 🔥 Contribution Streak | 🏆 GitHub Stats |
+| :---: | :---: |
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bittush8789&theme=tokyonight&hide_border=true) | ![Bittu's Stats](https://github-readme-stats.vercel.app/api?username=bittush8789&show_icons=true&theme=tokyonight&hide_border=true) |
+
+</div>
+
+---
+
+### 📫 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/bittu-kumar-54ab13254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bittu-kumar-54ab13254" height="30" width="40" /></a>
-<a href="https://instagram.com/bittush8789" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bittush8789" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/bittu-kumar-54ab13254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="mailto:bittush9534@gmail.com"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" height="30" width="30" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bittush8789&show_icons=true&locale=en&layout=compact" alt="bittush8789" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bittush8789&show_icons=true&locale=en" alt="bittush8789" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bittush8789&" alt="bittush8789" /></p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=bittush8789&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
+  <br>
+  <sub>Built with ❤️ by Bittu Kumar</sub>
+</div>
