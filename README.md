@@ -1,8 +1,9 @@
 <div align="center">
 
+# 🚀 Bittu Sharma
+
 <img src="https://media.licdn.com/dms/image/v2/D5603AQH62lVf6HzTaQ/profile-displayphoto-scale_400_400/B56ZrQmDwuI0Ag-/0/1764436231313?e=1778112000&v=beta&t=QeEhEx55c252iMXfpOKR3Ii4ENOofdBl-Sk2lchWBYY" width="180" style="border-radius: 50%; border: 4px solid #0E75B6;" />
 
-# 🚀 Bittu Sharma
 ### Remote-First DevOps | MLOps | LLMOps Engineer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Autonomous+Project+Ownership;Cloud+Native+%26+Production+Ready;Expert+in+Async+Communication;Building+Scalable+AI+Infrastructure" alt="Typing SVG" />
