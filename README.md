@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Bittu Sharma
+# 🚀 Bittu Kumar
 
 <img src="https://media.licdn.com/dms/image/v2/D5603AQH62lVf6HzTaQ/profile-displayphoto-scale_400_400/B56ZrQmDwuI0Ag-/0/1764436231313?e=1778112000&v=beta&t=QeEhEx55c252iMXfpOKR3Ii4ENOofdBl-Sk2lchWBYY" width="180" style="border-radius: 50%; border: 4px solid #0E75B6;" />
 
