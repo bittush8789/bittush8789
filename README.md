@@ -1,152 +1,99 @@
-# 👋 Hi, I'm Bittu Sharma
+<div align="center">
 
-## 🚀 DevOps Engineer | MLOps Engineer | Aspiring Forward Deployed Engineer (FDE)
+# 🚀 Bittu Sharma
 
-DevOps & MLOps Engineer with 2+ years of experience building cloud-native infrastructure, automating deployments, managing Kubernetes platforms, and supporting machine learning operations in production environments.
+### DevOps Engineer • MLOps Engineer • Aspiring Forward Deployed Engineer (FDE)
 
-Currently upskilling toward the Forward Deployed Engineer (FDE) role by developing expertise in AI Engineering, Agentic AI, Enterprise RAG Systems, Solution Architecture, and customer-facing technical delivery.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=DevOps+Engineer;MLOps+Engineer;Cloud+%26+Kubernetes+Enthusiast;Building+Production+AI+Platforms;Aspiring+Forward+Deployed+Engineer" />
 
----
-
-## 💼 About Me
-
-- ☁️ 2+ Years of Experience in DevOps & MLOps
-- 🚀 Building Scalable Cloud-Native Platforms
-- 🔄 Automating CI/CD & GitOps Workflows
-- 📦 Deploying Applications on Kubernetes
-- 🏗️ Infrastructure as Code with Terraform
-- 🤖 Learning AI Engineering & Agentic AI
-- 🧠 Exploring Enterprise RAG Systems
-- ⚡ Upskilling Toward Forward Deployed Engineering
-- 🤝 Passionate About Solving Business Problems Through Technology
+</div>
 
 ---
 
-# 🛠️ Tech Stack
+<div align="center">
 
-## DevOps
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bittush8789&show_icons=true&theme=tokyonight"/>
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bittush8789&layout=compact&theme=tokyonight"/>
 
-## Cloud & Infrastructure
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-
-## MLOps
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
-![Kubeflow](https://img.shields.io/badge/Kubeflow-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![DVC](https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge)
-![BentoML](https://img.shields.io/badge/BentoML-000000?style=for-the-badge)
-
-## Databases & Vector Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-7B68EE?style=for-the-badge)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
-
-## Monitoring & Observability
-
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![ELK](https://img.shields.io/badge/ELK-005571?style=for-the-badge)
-![Loki](https://img.shields.io/badge/Loki-FCC624?style=for-the-badge)
+</div>
 
 ---
 
-# 🎯 Currently Learning
+# ⚡ Tech Universe
 
-### Forward Deployed Engineering (FDE)
-- Solution Architecture
-- Customer Discovery
-- Technical Consulting
-- Enterprise AI Implementations
-- Stakeholder Communication
-- Business Problem Solving
+<div align="center">
 
-### AI Engineering
-- LangChain
-- LangGraph
-- LlamaIndex
-- Agentic AI
-- RAG Systems
-- AI Agents
+<img src="https://skillicons.dev/icons?i=python,bash,linux,docker,kubernetes,terraform,aws,jenkins,github,git,prometheus,grafana,mysql,postgresql,vscode" />
 
-### LLMOps
-- AI Evaluation
-- LangSmith
-- DeepEval
-- Ragas
-- Model Serving
-- AI Observability
+</div>
 
 ---
 
-# 📈 Professional Focus
+# 🎯 Current Journey
 
-```text
-DevOps Engineering        ████████████████████ 100%
-MLOps Engineering         ████████████████████ 100%
-Kubernetes                ███████████████████░ 95%
-Cloud Infrastructure      ███████████████████░ 95%
-Platform Engineering      ██████████████████░░ 90%
-AI Engineering            ███████████████░░░░░ 75%
-LLMOps                    ██████████████░░░░░░ 70%
-Forward Deployed Engg     ████████████░░░░░░░░ 60%
+```mermaid
+flowchart LR
+
+A[DevOps Engineer] --> B[Cloud Engineer]
+B --> C[MLOps Engineer]
+C --> D[AI Engineer]
+D --> E[Forward Deployed Engineer]
+
+style A fill:#0d1117
+style B fill:#0d1117
+style C fill:#0d1117
+style D fill:#0d1117
+style E fill:#0d1117
 ```
 
 ---
 
-# 🚀 Current Goals
+# 🛠 Current Focus
 
-- Transition into AI Engineering roles
-- Build Enterprise RAG Applications
-- Develop Multi-Agent AI Systems
-- Gain Hands-On FDE Experience
-- Design Production-Ready AI Platforms
-- Master LLMOps & Agentic AI
-- Work on Customer-Facing AI Solutions
-
----
-
-# 🔥 Featured Project Areas
-
-### Enterprise RAG Systems
-Building scalable Retrieval-Augmented Generation applications for enterprise use cases.
-
-### AI Knowledge Assistants
-Developing intelligent assistants powered by LLMs and enterprise knowledge bases.
-
-### LLMOps Platforms
-Implementing deployment, monitoring, evaluation, and governance for AI applications.
-
-### AI Infrastructure
-Designing Kubernetes-based platforms for deploying and scaling AI workloads.
-
-### Platform Engineering
-Creating Internal Developer Platforms and self-service infrastructure solutions.
+```text
+☁️ AWS & Cloud Architecture     ████████████████████ 100%
+🚀 Kubernetes & GitOps          ████████████████████ 100%
+🔄 CI/CD Automation             ████████████████████ 100%
+🤖 MLOps                        ███████████████████░ 95%
+🧠 AI Engineering               ███████████████░░░░░ 75%
+⚡ Forward Deployed Engineering ████████████░░░░░░░░ 60%
+```
 
 ---
 
-# 🌐 Connect With Me
+# 🔥 Building
 
-- 💻 GitHub: https://github.com/bittush8789
-- 📝 Blog: https://bittublog.hashnode.dev
-- 📍 Noida, India
+### 🚀 Enterprise RAG Platforms
+
+### 🤖 AI Knowledge Assistants
+
+### ☁️ Cloud Native Platforms
+
+### 📊 Observability Solutions
+
+### ⚡ Internal Developer Platforms
+
+### 🧠 Agentic AI Applications
 
 ---
 
-## 💡 Career Vision
+<div align="center">
 
-> Leveraging a strong DevOps and MLOps foundation to evolve into a Forward Deployed Engineer who can design, deploy, and scale AI-powered solutions that solve real-world business challenges.
+### 🌍 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github)](https://github.com/bittush8789)
+
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode)](https://bittublog.hashnode.dev)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Vision
+
+*"Using DevOps and MLOps expertise to build production-grade AI systems and evolve into a world-class Forward Deployed Engineer."*
+
+</div>
