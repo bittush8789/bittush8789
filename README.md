@@ -1,253 +1,146 @@
-<div align="center">
+# 🛠️ Tech Stack
 
-# 🚀 Bittu Kumar
+## 💻 Programming Languages
 
-### DevOps Engineer | MLOps Engineer | AI Infrastructure Engineer
-
-Building scalable cloud-native platforms, production-grade AI systems, and enterprise automation solutions.
-
-<p>
-  <a href="https://bittuaii.vercel.app/">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/bittu-kumar-54ab13254/">LinkedIn</a> •
-  <a href="https://github.com/bittush8789">GitHub</a> •
-  <a href="https://bittublog.hashnode.dev/">Technical Blog</a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,bash,javascript" />
 </p>
 
-</div>
+---
+
+## ☁️ Cloud Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
+</p>
 
 ---
 
-## About Me
+## 🚀 DevOps & Platform Engineering
 
-DevOps & MLOps Engineer with 2+ years of experience in cloud infrastructure, Kubernetes, CI/CD automation, Infrastructure as Code (IaC), monitoring, and AI platform engineering.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,ansible,githubactions,linux,git,nginx" />
+</p>
 
-I work on designing and deploying reliable systems that bridge software engineering, cloud infrastructure, and artificial intelligence. My current focus includes AI Engineering, LLMOps, Agentic AI, Enterprise RAG Systems, and Forward Deployed Engineering practices.
+### Additional Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" width="48" />
+</p>
 
 ---
 
-## Areas of Expertise
+## 📊 Monitoring & Observability
 
-### Cloud & Infrastructure
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+</p>
 
-* AWS
-* Kubernetes
-* Docker
-* Terraform
-* Helm
-* Linux
-* Networking
-* Infrastructure as Code
+### Additional Tools
 
-### DevOps & Platform Engineering
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="48" />
+  <img src="https://raw.githubusercontent.com/grafana/loki/main/docs/sources/logo_and_name.png" width="80" />
+</p>
 
-* CI/CD Automation
-* GitHub Actions
-* Jenkins
-* GitOps
-* ArgoCD
-* Platform Engineering
-* Release Automation
-* Production Deployments
+---
 
-### Monitoring & Reliability
+## 🤖 MLOps
 
-* Prometheus
-* Grafana
-* ELK Stack
-* Loki
-* CloudWatch
-* Observability
-* Incident Management
+<p align="left">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mlflow.svg" width="48" />
+  <img src="https://www.vectorlogo.zone/logos/kubeflow/kubeflow-icon.svg" width="48" />
+</p>
 
-### MLOps
+### Tools
 
 * MLflow
 * Kubeflow
 * DVC
 * BentoML
-* Model Deployment
-* Model Monitoring
-* Feature Pipelines
+* ZenML
 
-### AI Engineering & LLMOps
+---
+
+## 🧠 AI Engineering & LLMOps
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,tensorflow" />
+</p>
+
+### Frameworks & Tools
 
 * LangChain
 * LangGraph
 * LlamaIndex
-* RAG Pipelines
-* AI Agents
-* Multi-Agent Systems
-* ChromaDB
-* Pinecone
-* FAISS
 * OpenAI
 * Groq
 * Hugging Face
-
----
-
-## Tech Stack
-
-### Languages
-
-```python
-Python
-Bash
-SQL
-JavaScript
-```
-
-### Cloud & DevOps
-
-```yaml
-AWS
-Docker
-Kubernetes
-Terraform
-Helm
-Jenkins
-GitHub Actions
-ArgoCD
-Linux
-Git
-```
-
-### MLOps & AI
-
-```yaml
-MLflow
-Kubeflow
-DVC
-LangChain
-LangGraph
-LlamaIndex
-FastAPI
-RAG
-AI Agents
-```
-
-### Databases
-
-```yaml
-PostgreSQL
-MySQL
-MongoDB
-Redis
-ChromaDB
-Pinecone
-FAISS
-```
-
----
-
-## Featured Projects
-
-### Enterprise Insurance Claims Assistant
-
-Enterprise RAG platform designed to streamline claims operations, knowledge retrieval, and document intelligence workflows.
-
-**Stack**
-
-```text
-FastAPI • LangChain • ChromaDB • Groq
-Docker • Kubernetes • GitHub Actions
-```
-
----
-
-### Enterprise PDF Intelligence Platform
-
-Production-ready AI assistant for enterprise document search, semantic retrieval, and knowledge management.
-
-**Stack**
-
-```text
-FastAPI • ChromaDB • LangChain
-Docker • Kubernetes • Groq
-```
-
----
-
-### AI Operations Platform
-
-Unified platform for deploying, monitoring, and managing enterprise AI applications.
-
-**Capabilities**
-
-* Prompt Management
-* Evaluation Pipelines
-* Monitoring
-* Cost Tracking
-* AI Observability
-
----
-
-## Current Technical Focus
-
-### Platform Engineering
-
-* Kubernetes Platform Design
-* Internal Developer Platforms
-* GitOps Workflows
-* Cloud Automation
-
-### AI Engineering
-
-* Agentic AI
-* Enterprise RAG
+* RAG
 * AI Agents
-* Multi-Agent Architectures
-* LLM Evaluation
-
-### Forward Deployed Engineering
-
-* Enterprise AI Solutions
-* Business Process Automation
-* Solution Architecture
-* Customer-Focused Engineering
+* Multi-Agent Systems
+* MCP
 
 ---
 
-## Certifications
+## 🗄️ Databases
 
-* Oracle Cloud Infrastructure DevOps Professional
-* Oracle Cloud Infrastructure Associate
-* DevOps Engineering
-* Kubernetes & Cloud Native Technologies
-* MLOps Engineering
-* LLMOps Engineering
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+</p>
+
+### Vector Databases
+
+* ChromaDB
+* Pinecone
+* FAISS
 
 ---
 
-## Technical Writing
+## ⚙️ CI/CD & GitOps
 
-I regularly write about:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=githubactions,jenkins,git" />
+</p>
 
-* DevOps
-* Kubernetes
-* Terraform
-* AWS
-* MLOps
+### GitOps
+
+* ArgoCD
+* Helm
+* Kubernetes Deployments
+
+---
+
+## 🔐 DevSecOps
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions" />
+</p>
+
+### Security Tools
+
+* SonarQube
+* Trivy
+* Gitleaks
+* Checkov
+* HashiCorp Vault
+
+---
+
+## 🌐 Current Focus
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes,terraform,docker,python,fastapi,pytorch,tensorflow" />
+</p>
+
+### Building Expertise In
+
+* AI Engineering
 * LLMOps
+* Agentic AI
+* Multi-Agent Systems
+* Enterprise RAG
+* Forward Deployed Engineering (FDE)
 * AI Infrastructure
 * Platform Engineering
-
-🔗 **Blog:** https://bittublog.hashnode.dev
-
----
-
-## Connect
-
-📧 Email: **[bittush9534@gmail.com](mailto:bittush9534@gmail.com)**
-
-🌐 Portfolio: **https://bittuaii.vercel.app**
-
-💼 LinkedIn: **https://www.linkedin.com/in/bittu-kumar-54ab13254**
-
-💻 GitHub: **https://github.com/bittush8789**
-
-✍️ Blog: **https://bittublog.hashnode.dev**
-
----
-
-> Building reliable infrastructure, scalable platforms, and production-ready AI systems.
