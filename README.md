@@ -1,6 +1,6 @@
 <div align="center">
 
-# Bittu Sharma
+# Bittu Kumar
 
 ### AI Platform Engineer | AI Infrastructure Engineer | MLOps Engineer
 
