@@ -1,157 +1,45 @@
-<div align="center">
+# 👨‍💻 Bittu Kumar
 
-# Bittu Kumar
+### DevOps & MLOps Engineer | Building Expertise in Forward Deployed Engineering (FDE), AI Infrastructure & AI Platform Engineering
 
-### AI Platform Engineer | AI Infrastructure Engineer | MLOps Engineer
+Passionate about building cloud-native platforms, scalable Kubernetes infrastructure, production-grade automation, and AI-powered systems.
 
-Building scalable cloud platforms, production-grade AI infrastructure, and intelligent systems.
+## 🚀 About Me
 
-</div>
+- 2+ years of experience in DevOps, Cloud, and MLOps
+- Building and operating cloud-native platforms on AWS & Kubernetes
+- Expanding expertise in Forward Deployed Engineering (FDE)
+- Focused on AI Infrastructure, AI Platform Engineering, MLOps & LLMOps
+- Interested in Agentic AI, Enterprise RAG, and Platform Engineering
+- Strong believer in automation, scalability, and reliability
 
----
+## 🛠️ Tech Stack
 
-## 👨‍💻 About Me
+**Cloud & Infrastructure:**  
+AWS • Terraform • Linux • Networking
 
-* 🚀 2+ years of experience in DevOps, Cloud, and MLOps
-* ☁️ Building cloud-native platforms on AWS and Kubernetes
-* 🤖 Exploring AI Engineering, Agentic AI, RAG, and LLMOps
-* 🔧 Passionate about Platform Engineering and Developer Experience
-* 📈 Focused on production-ready, scalable, and reliable systems
-* 🎯 Long-term goal: AI Platform Engineer → AI Engineer → Forward Deployed Engineer
-
----
-
-## 🌟 Featured Repositories
-
-### 🚀 DevOps-to-AI-Platform
-
-A structured roadmap and hands-on journey from DevOps Engineer to AI Platform Engineer.
-
-**Topics:** Platform Engineering • Kubernetes • GitOps • MLOps • AI Platforms
-
----
-
-### ☁️ DevOps-to-AI-Infrastructure
-
-Production-grade infrastructure patterns for modern AI and cloud-native workloads.
-
-**Topics:** AWS • Terraform • Kubernetes • Observability • Security
-
----
-
-### 🤖 AI-Engineer-Playbook
-
-Comprehensive AI Engineering roadmap, projects, interview preparation, and practical learning resources.
-
-**Topics:** Machine Learning • Deep Learning • LLMs • RAG • Agentic AI
-
----
-
-### 📄 LLMOps PDF Intelligence Assistant
-
-Enterprise-grade RAG application powered by LLMOps best practices.
-
-**Topics:** LangChain • Vector Databases • RAG • LLMOps
-
----
-
-### 🏢 AI Underwriting Support Platform
-
-Insurance-focused AI platform demonstrating real-world business applications of MLOps and AI.
-
-**Topics:** Insurance AI • MLOps • Predictive Intelligence
-
----
-
-### ⚡ Realtime MLOps Project
-
-End-to-end MLOps implementation covering training, deployment, monitoring, and automation.
-
-**Topics:** MLflow • CI/CD • Model Deployment • Monitoring
-
----
-
-## 🛠️ Core Technologies
-
-### Cloud & Infrastructure
-
-AWS • Linux • Networking • Terraform
-
-### Containers & Platform Engineering
-
+**Containers & Platform Engineering:**  
 Docker • Kubernetes • Helm • ArgoCD
 
-### CI/CD & Automation
-
+**CI/CD & Automation:**  
 GitHub Actions • Jenkins • GitOps
 
-### Monitoring & Observability
-
+**Monitoring & Observability:**  
 Prometheus • Grafana • ELK Stack
 
-### AI & MLOps
-
+**AI & MLOps:**  
 MLflow • Kubeflow • LangChain • Vector Databases
 
-### Programming
-
+**Programming:**  
 Python • Bash • SQL
-
----
-
-## 📈 Engineering Journey
-
-```text
-DevOps Engineer
-       │
-       ▼
-Platform Engineer
-       │
-       ▼
-MLOps Engineer
-       │
-       ▼
-AI Infrastructure Engineer
-       │
-       ▼
-AI Platform Engineer
-       │
-       ▼
-AI Engineer
-       │
-       ▼
-Forward Deployed Engineer
-```
-
----
 
 ## 🎯 Current Focus
 
-* AI Platform Engineering
-* AI Infrastructure
-* Kubernetes at Scale
-* MLOps & LLMOps
-* Agentic AI Systems
-* Enterprise RAG Applications
-* Platform Automation
+- Forward Deployed Engineering (FDE)
+- AI Infrastructure Engineering
+- AI Platform Engineering
+- Kubernetes at Scale
+- MLOps & LLMOps
+- Agentic AI Systems
 
----
-
-## 💡 Philosophy
-
-> Build reliable platforms today. Build intelligent systems tomorrow.
-
----
-
-## 🌐 Connect
-
-* GitHub: https://github.com/bittush8789
-* Hashnode: https://bittublog.hashnode.dev
-
----
-
-<div align="center">
-
-### Building the future of AI Platforms, Infrastructure, and Intelligent Systems 🚀
-
-</div>
+> Building reliable platforms today. Building intelligent systems for tomorrow.
